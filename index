@@ -4,7 +4,14 @@ This is the wiki of /u/cspaperbot.
 The sourcecode is available on [github](https://github.com/nathschwarz/cspaperbot).
 This wiki is being updated daily from its [git repo](https://github.com/nathschwarz/rcspaperbotwiki)
 with the [rwikibot](https://github.com/nathschwarz/rwikibot).
- 
+
+#Notifications
+The bot can notify users of a new voting and/or discussion-thread. To enable this, send a message to /u/cspaperbot with  
+`subscribe voting discussion` to subscribe  
+or  
+`unsubscribe voting discussion` to unsubscribe.  
+Leave out what you want/don't want.
+
 #Votings
 ##2015
 ###January
